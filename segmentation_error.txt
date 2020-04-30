@@ -1,0 +1,12 @@
+
+command:
+1. c++ -g filename
+2. ./a.out
+3. write input
+4.gdb ./a.out
+5.write this: run
+6.write  input
+7.backtrace
+8.frame number
+
+
