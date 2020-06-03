@@ -1,0 +1,19 @@
+
+command for different shells that support any os:
+
+cat /etc/shells
+
+sh:bond shell.It is an original shell
+bash:bond again shell.It is a standard shell
+
+command to know the location of bash:
+
+which bash
+
+command to make a shell script file:
+
+touch filename.sh
+
+
+
+
