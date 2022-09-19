@@ -1,19 +1,26 @@
 
 command for different shells that support any os:
-
+```
 cat /etc/shells
+```
 
 sh:bond shell.It is an original shell
 bash:bond again shell.It is a standard shell
 
-command to know the location of bash:
 
+command to know the location of bash:
+```
 which bash
+```
 
 command to make a shell script file:
-
+```
 touch filename.sh
+```
 
-
-
+open this filename.sh file with vs code and write something
+then to watch the content of the file we need to run the following command:
+```
+./filename.sh
+```
 
